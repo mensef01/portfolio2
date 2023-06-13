@@ -1,0 +1,26 @@
+body {
+    background-color:#eedbe7b7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+hr{
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1{
+    color: #645CBB;
+    font-family: cursive;
+}
+
+h3{
+    color: #645CBB;
+    font-family: cursive;
+}
+
+img{
+    background-color:#b9aea7 ;
+}
